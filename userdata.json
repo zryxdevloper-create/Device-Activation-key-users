@@ -15,6 +15,6 @@
         "device_id": "529f96ad581c2a60",
         "key": "shadowhex11",
         "expirydate": "13-12-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
